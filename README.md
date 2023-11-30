@@ -4,7 +4,7 @@
 
 1. You can quickly use the below commands to run a spring boot application from a command line.
 1.1. Run the Spring boot application with the java -jar command:
-   java -jar book-0.0.1-SNAPSHOT.jar
+   java -jar booking-api-0.1.0-RELEASE.jar
 
 1.2. Run the Spring boot application using Maven:
    mvn spring-boot:run
